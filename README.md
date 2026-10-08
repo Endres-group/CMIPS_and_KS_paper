@@ -1,6 +1,8 @@
 # Motility-induced phase separation drives aggregation in chemotactic systems
 
 This repository contains Jupyter notebooks for the analysis and simulations of a unified continuum framework combining chemotaxis and motility-induced phase separation (MIPS), with minimal and autocrine signalling.
+![Uploading AdobeExpressPhotos_931351a6cd5a49fca084c93c79f38d98_CopyEdited.png…]()
+
 
 ### Code organisation
 
