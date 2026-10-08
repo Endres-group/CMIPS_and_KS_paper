@@ -6,8 +6,8 @@ This repository contains Jupyter notebooks for the analysis and simulations of a
 
 - `figure_2_phase_diagram.ipynb` - Generates the phase diagram in Fig. 2.
 - `figure_3_dispersion_relation.ipynb` - Calculates and plots the dispersion relations in Fig. 3.
-- `figure_4_Autocrine_MIPS_Simulation.ipynb` - Simulates pattern formation in the autocrine CMIPS model for Fig. 4.
-- `figure_5_Minimal_MIPS_Simulation.ipynb` - Simulates pattern formation in the minimal-signaling CMIPS model for Fig. 5.
+- `figure_4_Autocrine_CMIPS_Simulation.ipynb` - Simulates pattern formation in the autocrine CMIPS model for Fig. 4.
+- `figure_5_Minimal_CMIPS_Simulation.ipynb` - Simulates pattern formation in the minimal-signaling CMIPS model for Fig. 5.
 - `figure_6_pattern_transmission.ipynb` - Simulates pattern transmission between a MIPS-unstable population and a stable population, comparing minimal and autocrine signaling for Fig. 6.
 - `Supplementary_figure1_autocrine_KS.ipynb` - Calculates and plots the dispersion relation for the autocrine Keller–Segel model in Supplementary Fig. S1.
 - `Supplementary_coarsening_analysis.ipynb` - Analyses coarsening in the minimal-signaling and autocrine CMIPS models, including characteristic domain size and power-law fits.
